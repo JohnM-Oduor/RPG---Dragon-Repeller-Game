@@ -1,6 +1,6 @@
  # RPG - Dragon Repeller
 
-**RPG - Dragon Repeller** is a text-based RPG game where players must defeat a dragon that’s terrorizing the town. Starting in the town square, players can buy items, fight monsters, gain experience, and collect gold to improve their chances in the final battle.**This is the hyperlink of this project:https://rp-g-dragon-repeller.netlify.app/**
+- **RPG - Dragon Repeller** is a text-based RPG game where players must defeat a dragon that’s terrorizing the town. Starting in the town square, players can buy items, fight monsters, gain experience, and collect gold to improve their chances in the final battle.**This is the hyperlink of this project:https://rp-g-dragon-repeller.netlify.app/**
 ![image](https://github.com/user-attachments/assets/ef88688f-85eb-4203-9bff-22f20b66dbd6)
 
 
